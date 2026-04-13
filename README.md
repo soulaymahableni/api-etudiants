@@ -262,18 +262,7 @@ SERVER_PORT=8080
 5. Créer une Pull Request
 6. Attendre la revue de code
 
-## 📞 Contact & Support
 
-- **Chef de projet** : [Nom du chef de projet]
-- **Développeur principal** : [Nom du développeur]
-- **Canal de communication** : [Slack/Teams/Discord]
 
 ---
 
-## 📜 Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
-
-**🚀 Version actuelle : v2.0.0 | Dernière mise à jour : Avril 2026**
